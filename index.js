@@ -1,6 +1,4 @@
-// index.js
 
-// Function to add an event listener
 function addingEventListener() {
     // Select the element to which you want to add the event listener
     const button = document.getElementById('button');
